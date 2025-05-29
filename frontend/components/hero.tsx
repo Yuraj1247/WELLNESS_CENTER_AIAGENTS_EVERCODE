@@ -73,7 +73,7 @@ export default function Hero({ dict }: HeroProps) {
               className="bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-600 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
             >
               <Calendar className="h-5 w-5 mr-2" />
-              {dict.hero.cta}
+              Open Since 1980
             </Button>
 
             <Button
@@ -82,7 +82,7 @@ export default function Hero({ dict }: HeroProps) {
               className="border-2 border-purple-500 text-purple-600 hover:bg-purple-50 px-8 py-4 text-lg font-semibold rounded-full transition-all duration-300"
             >
               <MapPin className="h-5 w-5 mr-2" />
-              Find Location
+             Mumbai Maharshtra
             </Button>
 
             <Button
@@ -90,7 +90,7 @@ export default function Hero({ dict }: HeroProps) {
               size="lg"
               className="border-2 border-green-500 text-green-600 hover:bg-green-50 px-8 py-4 text-lg font-semibold rounded-full transition-all duration-300"
             >
-              🎥 Virtual Tour
+              Multi-Language Support
             </Button>
           </div>
 
