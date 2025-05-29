@@ -138,3 +138,30 @@ Our platform solves this with two advanced AI voice agents — one for handling 
 
 ## Setup Process 
 
+**1. Clone the repo**
+git clone https://github.com/Yuraj1247/WELLNESS_CENTER_AIAGENTS_EVERCODE
+
+**2. Install dependencies**
+npm install
+pnpm install
+
+**3. Run the development server**
+npm run dev
+
+Visit http://localhost:3000 to get started
+
+## ScreenShots
+
+![Screenshot 2025-05-29 233021](https://github.com/user-attachments/assets/1d8f7f7e-879e-47a3-9940-69b0799d16b2)
+![Screenshot 2025-05-30 041831](https://github.com/user-attachments/assets/66efae2b-032a-4ad2-8bb2-1553e98b839d)
+![Screenshot 2025-05-30 041854](https://github.com/user-attachments/assets/ac5eb790-5d36-4ae8-9018-d6ef97e9db67)
+![Screenshot 2025-05-30 043601](https://github.com/user-attachments/assets/f51ab96c-596c-410b-ab43-0c2609217843)
+![Screenshot 2025-05-29 233856](https://github.com/user-attachments/assets/0f0f8768-88ac-4ba6-9ee9-c289b5c82446)
+![Screenshot 2025-05-29 233040](https://github.com/user-attachments/assets/88b3d862-6d30-4899-b68b-0c0f3095c03f)
+![Screenshot 2025-05-29 233058](https://github.com/user-attachments/assets/f8224a5f-33f8-46cf-8dc5-0a1a00272025)
+![Screenshot 2025-05-29 234716](https://github.com/user-attachments/assets/251bd2ee-7cd6-4b09-9ec6-2fdaded2f413)
+![Screenshot 2025-05-30 043704](https://github.com/user-attachments/assets/d7fd0aec-7c6d-42b2-9462-ecc299f6ecbc)
+![Screenshot 2025-05-30 043649](https://github.com/user-attachments/assets/934583b4-de5b-4de3-97eb-175fb4cf0d19)
+![Screenshot 2025-05-30 041707](https://github.com/user-attachments/assets/bb09f4cb-95b8-4c00-a95f-932f9a1ba1ae)
+![Screenshot 2025-05-30 041841](https://github.com/user-attachments/assets/4bfa2988-a6d5-43c4-a56f-790880d6974e)
+![Screenshot 2025-05-30 041735](https://github.com/user-attachments/assets/fdf5b37c-8dcc-42e8-9a18-00d8df9af425)
