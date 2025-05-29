@@ -20,7 +20,7 @@ export default function AdminLogin() {
   const [otpSent, setOtpSent] = useState(false)
   const router = useRouter()
 
-  const API_BASE_URL= "https://wellness-center-aiagents-evercode-1.onrender.com"
+  const API_BASE_URL= "your_backend_deployed_url"
 
   const handleCredentialsSubmit = async (e) => {
     e.preventDefault()
