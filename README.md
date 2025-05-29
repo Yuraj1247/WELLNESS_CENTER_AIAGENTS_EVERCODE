@@ -11,7 +11,7 @@ Our solution uses **dual AI voice agents** to **automate appointment booking** a
 
 ---
 
-## 🔗 important Links
+## 🔗 Important Links
 
 - 🌐 **Live Website**: https://wellness-center-aiagents-evercode-orcin.vercel.app/en  
 - 💻 **GitHub Repo**:  https://github.com/Yuraj1247/WELLNESS_CENTER_AIAGENTS_EVERCODE
