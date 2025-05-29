@@ -49,7 +49,7 @@ export default function AdminLogin() {
     setError("")
 
     try {
-      const response = await axios.post("http://localhost:5000/api/admin/verify-otp", { otp })
+      const response = await axios.post(`${API_BASE_URL}/api/admin/verify-otp`, { otp })
       alert(response.data.message)
       // Save the token
       if(response.data.token) {
