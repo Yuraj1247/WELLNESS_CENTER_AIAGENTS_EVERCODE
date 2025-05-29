@@ -1,0 +1,231 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "doctors": "Our Doctors",
+    "appointments": "Book Appointment",
+    "contact": "Contact",
+    "emergency": "Emergency",
+    "healthTips": "Health Tips",
+    "medicalTests": "Medical Tests",
+    "facilities": "Facilities"
+  },
+  "hero": {
+    "title": "Your Health, Our Priority",
+    "subtitle": "Experience world-class healthcare with our team of expert doctors, state-of-the-art facilities, and compassionate care. We're committed to providing comprehensive medical services that prioritize your well-being and recovery.",
+    "cta": "Book Appointment",
+    "emergency": "Emergency: +91 98765 43210",
+    "stats": {
+      "patients": "50,000+",
+      "patientsLabel": "Happy Patients",
+      "doctors": "25+",
+      "doctorsLabel": "Expert Doctors",
+      "years": "20+",
+      "yearsLabel": "Years Experience"
+    }
+  },
+  "services": {
+    "title": "Our Medical Services",
+    "subtitle": "Comprehensive healthcare services designed to meet all your medical needs with excellence and compassion",
+    "general": {
+      "title": "General Medicine",
+      "description": "Complete primary healthcare services including routine checkups, preventive care, chronic disease management, and general medical consultations for all age groups."
+    },
+    "cardiology": {
+      "title": "Cardiology",
+      "description": "Advanced heart care services including ECG, echocardiography, stress testing, cardiac catheterization, and comprehensive treatment for heart conditions."
+    },
+    "orthopedics": {
+      "title": "Orthopedics",
+      "description": "Specialized bone and joint care including fracture treatment, joint replacement surgery, sports medicine, and rehabilitation services."
+    },
+    "pediatrics": {
+      "title": "Pediatrics",
+      "description": "Comprehensive healthcare for children from newborns to adolescents, including vaccinations, growth monitoring, and pediatric emergency care."
+    },
+    "dermatology": {
+      "title": "Dermatology",
+      "description": "Complete skin care services including treatment of skin conditions, cosmetic dermatology, skin cancer screening, and advanced dermatological procedures."
+    },
+    "gynecology": {
+      "title": "Gynecology",
+      "description": "Women's health services including prenatal care, family planning, gynecological surgeries, and comprehensive reproductive health care."
+    },
+    "neurology": {
+      "title": "Neurology",
+      "description": "Specialized care for neurological conditions including stroke treatment, epilepsy management, headache disorders, and brain imaging services."
+    },
+    "emergency": {
+      "title": "Emergency Care",
+      "description": "24/7 emergency medical services with trauma care, critical care units, emergency surgery, and fully equipped ambulance services."
+    }
+  },
+  "about": {
+    "title": "About Wellness Center",
+    "subtitle": "Leading Healthcare Excellence Since 2004",
+    "description": "Wellness Center has been at the forefront of healthcare innovation for over two decades. Founded with a vision to provide accessible, high-quality medical care, we have grown into a comprehensive healthcare facility serving thousands of patients annually. Our commitment to excellence, combined with cutting-edge technology and compassionate care, makes us the preferred choice for families seeking reliable healthcare solutions.",
+    "mission": "To provide accessible, high-quality healthcare services that improve the health and well-being of our community through compassionate care, advanced medical technology, and continuous innovation.",
+    "vision": "To be the leading healthcare provider in the region, recognized for excellence in patient care, medical innovation, and community health improvement.",
+    "values": {
+      "title": "Our Core Values",
+      "compassion": "Compassion - We treat every patient with empathy and understanding",
+      "excellence": "Excellence - We strive for the highest standards in medical care",
+      "integrity": "Integrity - We maintain honesty and transparency in all our interactions",
+      "innovation": "Innovation - We embrace new technologies and treatment methods"
+    },
+    "stats": {
+      "patients": "50,000+ Happy Patients",
+      "doctors": "25+ Expert Doctors",
+      "experience": "20+ Years Experience",
+      "services": "15+ Medical Services",
+      "beds": "100+ Hospital Beds",
+      "surgeries": "5,000+ Successful Surgeries"
+    },
+    "achievements": {
+      "title": "Our Achievements",
+      "accreditation": "NABH Accredited Hospital",
+      "awards": "Best Healthcare Provider 2023",
+      "certification": "ISO 9001:2015 Certified",
+      "recognition": "Excellence in Patient Care Award"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Real experiences from our valued patients who trust us with their health",
+    "items": [
+      {
+        "name": "Priya Sharma",
+        "location": "Mumbai",
+        "service": "Cardiology",
+        "text": "The cardiac care team at Wellness Center saved my life. Dr. Kumar's expertise and the nursing staff's dedication made my recovery smooth and comfortable. I'm forever grateful for their exceptional care."
+      },
+      {
+        "name": "Rajesh Patel",
+        "location": "Ahmedabad",
+        "service": "Orthopedics",
+        "text": "After my knee replacement surgery, I can walk pain-free again. The orthopedic team's skill and the rehabilitation program helped me regain my mobility. Highly recommend this hospital."
+      },
+      {
+        "name": "Anita Singh",
+        "location": "Delhi",
+        "service": "Pediatrics",
+        "text": "As a mother, I trust only Wellness Center for my children's healthcare. The pediatric team is wonderful with kids, and the facilities are child-friendly. Best decision for our family's health."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for appointments, inquiries, and emergency services",
+    "mainOffice": {
+      "title": "Main Hospital",
+      "address": "123 Health Street, Medical District, Mumbai - 400001",
+      "phone": "+91 98765 43210",
+      "email": "info@wellnesscenter.com",
+      "hours": "24/7 Emergency Services"
+    },
+    "branchOffice": {
+      "title": "Branch Clinic",
+      "address": "456 Care Avenue, Health Zone, Mumbai - 400002",
+      "phone": "+91 98765 43211",
+      "email": "branch@wellnesscenter.com",
+      "hours": "Mon-Sat: 8:00 AM - 8:00 PM"
+    },
+    "departments": {
+      "title": "Department Contacts",
+      "emergency": "Emergency: +91 98765 43210",
+      "appointments": "Appointments: +91 98765 43212",
+      "pharmacy": "Pharmacy: +91 98765 43213",
+      "lab": "Laboratory: +91 98765 43214"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Select Service",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Thank you! We'll get back to you soon."
+    }
+  },
+  "appointment": {
+    "title": "Book Your Appointment",
+    "subtitle": "Schedule your consultation with our expert doctors. Choose your preferred date, time, and specialist.",
+    "description": "Booking an appointment is easy and convenient. Fill out the form below with your details and preferred appointment time. Our team will confirm your appointment within 24 hours.",
+    "benefits": {
+      "title": "Why Book Online?",
+      "convenience": "24/7 online booking convenience",
+      "confirmation": "Instant appointment confirmation",
+      "reminders": "SMS and email reminders",
+      "rescheduling": "Easy rescheduling options"
+    },
+    "process": {
+      "title": "Appointment Process",
+      "step1": "Fill the appointment form",
+      "step2": "Choose your preferred doctor",
+      "step3": "Select date and time",
+      "step4": "Receive confirmation"
+    }
+  },
+  "healthTips": {
+    "title": "Health Tips & Wellness",
+    "subtitle": "Expert advice and tips for maintaining optimal health and preventing diseases",
+    "featured": {
+      "title": "Featured Health Articles",
+      "nutrition": {
+        "title": "Nutrition Guidelines for Healthy Living",
+        "excerpt": "Learn about balanced diet, essential nutrients, and meal planning for optimal health."
+      },
+      "exercise": {
+        "title": "Exercise and Physical Fitness",
+        "excerpt": "Discover the importance of regular exercise and how to create an effective workout routine."
+      },
+      "mental": {
+        "title": "Mental Health and Wellness",
+        "excerpt": "Understanding mental health, stress management, and maintaining emotional well-being."
+      }
+    }
+  },
+  "medicalTests": {
+    "title": "Medical Tests & Diagnostics",
+    "subtitle": "Comprehensive diagnostic services with state-of-the-art equipment and accurate results",
+    "categories": {
+      "laboratory": "Laboratory Tests",
+      "imaging": "Medical Imaging",
+      "cardiac": "Cardiac Tests",
+      "specialized": "Specialized Tests"
+    }
+  },
+  "facilities": {
+    "title": "Our Facilities",
+    "subtitle": "State-of-the-art medical facilities designed for patient comfort and optimal care",
+    "features": {
+      "icu": "Intensive Care Unit",
+      "ot": "Modern Operation Theaters",
+      "emergency": "24/7 Emergency Department",
+      "pharmacy": "In-house Pharmacy"
+    }
+  },
+  "footer": {
+    "description": "Your trusted healthcare partner providing quality medical services with compassion and excellence. We are committed to improving community health through innovative care and dedicated service.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "© 2024 Wellness Center. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "sitemap": "Sitemap"
+  },
+  "common": {
+    "readMore": "Read More",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "callNow": "Call Now",
+    "getDirections": "Get Directions",
+    "downloadBrochure": "Download Brochure",
+    "viewGallery": "View Gallery"
+  }
+}
