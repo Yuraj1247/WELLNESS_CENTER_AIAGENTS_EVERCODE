@@ -1,8 +1,4 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { Textarea } from "@/components/ui/textarea"
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { MapPin, Phone, Mail, Clock } from "lucide-react"
 
 interface ContactProps {
@@ -91,61 +87,20 @@ export default function Contact({ dict }: ContactProps) {
             </Card>
           </div>
 
-          {/* Contact Form */}
+          {/* Replaced Contact Form with Fillout Embed */}
           <Card className="border-0 shadow-xl bg-white/90 backdrop-blur-sm">
             <CardHeader>
               <CardTitle className="text-2xl font-bold text-center text-gray-800">Send us a Message</CardTitle>
             </CardHeader>
-            <CardContent className="space-y-6">
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <div>
-                  <label className="text-sm font-medium text-gray-700 mb-2 block">{dict.contact.form.name}</label>
-                  <Input placeholder={dict.contact.form.name} className="border-purple-200 focus:border-purple-500" />
-                </div>
-                <div>
-                  <label className="text-sm font-medium text-gray-700 mb-2 block">{dict.contact.form.phone}</label>
-                  <Input placeholder={dict.contact.form.phone} className="border-purple-200 focus:border-purple-500" />
-                </div>
-              </div>
-
-              <div>
-                <label className="text-sm font-medium text-gray-700 mb-2 block">{dict.contact.form.email}</label>
-                <Input
-                  type="email"
-                  placeholder={dict.contact.form.email}
-                  className="border-purple-200 focus:border-purple-500"
-                />
-              </div>
-
-              <div>
-                <label className="text-sm font-medium text-gray-700 mb-2 block">{dict.contact.form.service}</label>
-                <Select>
-                  <SelectTrigger className="border-purple-200 focus:border-purple-500">
-                    <SelectValue placeholder={dict.contact.form.service} />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="general">General Medicine</SelectItem>
-                    <SelectItem value="cardiology">Cardiology</SelectItem>
-                    <SelectItem value="orthopedics">Orthopedics</SelectItem>
-                    <SelectItem value="pediatrics">Pediatrics</SelectItem>
-                    <SelectItem value="dermatology">Dermatology</SelectItem>
-                    <SelectItem value="gynecology">Gynecology</SelectItem>
-                  </SelectContent>
-                </Select>
-              </div>
-
-              <div>
-                <label className="text-sm font-medium text-gray-700 mb-2 block">{dict.contact.form.message}</label>
-                <Textarea
-                  placeholder={dict.contact.form.message}
-                  rows={4}
-                  className="border-purple-200 focus:border-purple-500"
-                />
-              </div>
-
-              <Button className="w-full bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-600 hover:to-purple-700 text-white py-3 text-lg font-semibold rounded-lg shadow-lg hover:shadow-xl transition-all duration-300">
-                {dict.contact.form.submit}
-              </Button>
+            <CardContent>
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: `
+                    <div style="width:100%;height:500px;" data-fillout-id="odUctmh74Wus" data-fillout-embed-type="standard" data-fillout-inherit-parameters data-fillout-dynamic-resize></div>
+                    <script src="https://server.fillout.com/embed/v1/"></script>
+                  `,
+                }}
+              />
             </CardContent>
           </Card>
         </div>
