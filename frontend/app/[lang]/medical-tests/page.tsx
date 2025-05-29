@@ -285,7 +285,7 @@ export default async function MedicalTestsPage({
               asChild
               size="lg"
               variant="outline"
-              className="border-2 border-white text-white hover:bg-white hover:text-purple-600 px-8 py-4 text-lg font-semibold rounded-full transition-all duration-300"
+              className="border-2 border-white  hover:text-purple-600 px-8 py-4 text-lg font-semibold rounded-full transition-all duration-300"
             >
               <a href="tel:+919876543210">📞 Call for Home Collection</a>
             </Button>
