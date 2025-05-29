@@ -11,6 +11,14 @@ Our solution uses **dual AI voice agents** to **automate appointment booking** a
 
 ---
 
+## 🔗 important Links
+
+- 🌐 **Live Website**: https://wellness-center-aiagents-evercode-orcin.vercel.app/en  
+- 💻 **GitHub Repo**:  https://github.com/Yuraj1247/WELLNESS_CENTER_AIAGENTS_EVERCODE
+- 🌐 **PPT LINK**: https://www.canva.com/design/DAGo3qmPmgU/KRViht1TtcR6cWOpGZU3oQ/edit?utm_content=DAGo3qmPmgU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
+
+---
+
 ## 🏥 Problem Statement
 
 Clinics struggle with managing high volumes of appointment requests and patient queries. Manual handling leads to missed slots, delays, and poor communication. Most platforms do not support regional languages, leaving patients underserved. Clinics also lack intelligent agents to handle queries without human intervention.
@@ -118,13 +126,6 @@ Our platform solves this with two advanced AI voice agents — one for handling 
 
 - 📧 Email: [yurajchinarathod@gmail.com](mailto:yurajchinarathod@gmail.com)  
 - 📱 Phone: +91 9892557166
-
----
-
-## 🔗 Demo Links
-
-- 🌐 **Live Website**: https://wellness-center-aiagents-evercode-orcin.vercel.app/en  
-- 💻 **GitHub Repo**:  https://github.com/Yuraj1247/WELLNESS_CENTER_AIAGENTS_EVERCODE
 
 ---
 
