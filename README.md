@@ -143,7 +143,7 @@ Our platform solves this with two advanced AI voice agents — one for handling 
 git clone https://github.com/Yuraj1247/WELLNESS_CENTER_AIAGENTS_EVERCODE
 
 **2. Install dependencies**
-npm install
+npm install,
 pnpm install
 
 **3. Run the development server**
