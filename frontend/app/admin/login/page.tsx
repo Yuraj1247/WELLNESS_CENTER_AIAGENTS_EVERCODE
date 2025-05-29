@@ -20,13 +20,15 @@ export default function AdminLogin() {
   const [otpSent, setOtpSent] = useState(false)
   const router = useRouter()
 
+  const API_BASE_URL= "https://wellness-center-aiagents-evercode-1.onrender.com"
+
   const handleCredentialsSubmit = async (e) => {
     e.preventDefault()
     setLoading(true)
     setError("")
 
     try {
-      const response = await axios.post("http://localhost:5000/api/admin/login", { email })
+      const response = await axios.post(`${API_BASE_URL}/api/admin/login`, { email });
       alert(response.data.message)
       setOtpSent(true)
       setStep("otp")
